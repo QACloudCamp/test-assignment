@@ -21,6 +21,7 @@
 
 ### Технические требования:
 
+- API url https://jsonplaceholder.typicode.com/
 - Методы, требующие проверки:
 GET /posts, POST /posts, DELETE /posts
 - Методы могут принимать параметры userId, id, title, body
